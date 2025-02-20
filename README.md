@@ -1,6 +1,6 @@
 - 👋 Good Morning, I’m Hickey0402 from IS school Macao. =ω=
 - 👀 I’m planning to study in the UK  lately.
-- 😎 I'm interested in coding, designing, reading, Astronomy, Mathematics & Physics.
+- 😎 I'm interested in coding, designing, reading, music, Astronomy, Mathematics & Physics.
 - 🌱 I’m currently learning and doing C & C++ (mainly), also Python or JS sometimes.
 - ⚡ Fun fact: I am an ASIAN but the only language I speak is failure.
 
