@@ -1,4 +1,4 @@
-- 👋 Good Morning, I’m Hickey0402 from IS school Macao. =ω=
+- 👋 Hello, I’m Hickey0402 from IS school Macao. =ω=
 - 👀 I’m planning to study in the UK  lately.
 - 😎 I'm interested in coding, designing, reading, music, Astronomy, Mathematics & Physics.
 - 🌱 I’m currently learning and doing C & C++ (mainly), also Python or JS sometimes.
